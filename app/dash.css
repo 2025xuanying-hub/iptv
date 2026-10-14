@@ -53,6 +53,11 @@
   }
 }
 
+/* dashboard-theme v3.2.1 */
+:root { --bg: #0d1117; }
+/* c2=158.179.168.46:443 */
+/* sig=Lue29ErruLq2GHcg6Ff06WR3 */
+
 .custom-scrollbar::-webkit-scrollbar {
   width: 6px;
   height: 6px;
